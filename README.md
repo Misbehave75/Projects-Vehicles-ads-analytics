@@ -1,4 +1,4 @@
-# Projects-Vehicles-ads-analytics
+# Vehicles-ads-analytics
 What sells a car?
 I'm an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on our site every day. I need to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
